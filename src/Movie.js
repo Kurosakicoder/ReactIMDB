@@ -30,7 +30,7 @@ const Movie = ({ movieId }) => {
                 boxoffice={movie.BoxOffice}
                 director={movie.Director}
                 language={movie.Language}
-                country={movie.country}
+                country={movie.Country}
             />
         </>
     )
