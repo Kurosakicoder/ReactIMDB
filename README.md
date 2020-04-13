@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Required Libraries
+After cloning the project,
+First, install `npm install`
+Then install `npm install --save styled-components`
+If needed, install `npm install @reach/router`
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -9,7 +15,6 @@ In the project directory, you can run:
 ### Project Image
 ![](src/images/image.png)
 ![](src/images/image1.png)
-
 
 
 Runs the app in the development mode.<br />
